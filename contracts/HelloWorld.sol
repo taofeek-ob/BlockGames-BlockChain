@@ -7,8 +7,6 @@ contract HelloWorld {
 uint256 public total;
 string public name;
 
-   constructor() {  
-   }
 
 function calculate( uint a, uint b) public {
     total = a+b;

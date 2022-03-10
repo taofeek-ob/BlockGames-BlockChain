@@ -94,7 +94,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/HelloWorld.sol": "HelloWorld"
+			"HelloWorld_flat.sol": "HelloWorld"
 		},
 		"evmVersion": "berlin",
 		"libraries": {},
@@ -108,12 +108,12 @@
 		"remappings": []
 	},
 	"sources": {
-		"contracts/HelloWorld.sol": {
-			"keccak256": "0xf3cb3d0f121ec6e8d503020bdf6fcaa878ec08cf03a26992dc5d917ff60cd763",
+		"HelloWorld_flat.sol": {
+			"keccak256": "0xaaae4866487193c9c88382ccb97ea72324f809d27c7b752b5b94b9a8d4b901e8",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://661839a094e2d70a4271dc546868bed3fc7855bba410464eeb026774be1d86d9",
-				"dweb:/ipfs/QmPDSojqxpr5oKEH1LGEQ4jbgCFSCqM84RPkC8e8jUA5id"
+				"bzz-raw://09320f73d6fc65750250546232bc1e8d92f0f483cf2b8ad09f5dce6c56395d8c",
+				"dweb:/ipfs/QmbB9U1MZToQqb6QhdQwfSfbzER3kvDT3NB7MM9WTTaoQc"
 			]
 		}
 	},
